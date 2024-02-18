@@ -21,7 +21,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  ### Görev 1
  * ana paketiniz altında ```controller```, ```services```, ```dao```, ```entity```, ```exceptions``` isminde 5 adet daha paket oluşturunuz. .
  * ```entity``` paketinin altına ```Fruit``` ve ```Vegetable``` isimli iki tane sınıf oluşturunuz.
- * ```Fruit``` sınıfı ```id, name, price, FruitType``` isimli 4 fielda sahip olmalı. FruitType enum olmalı(SWEET, SOUR değerlerini alabilir.)
+ * ```Fruit``` sınıfı ```id, name, price, FruitType ``` isimli 4 fielda sahip olmalı. FruitType enum olmalı(SWEET, SOUR değerlerini alabilir.)
  * ```Vegetable``` sınıfı ```id, name, price, isGrownOnTree``` isimli 4 fielda sahip olmalı.
  * ```Fruit``` ve ```Vegetable``` sınıfları project lombok ve Jpa annotationlarını kullanmalıdır.
 
